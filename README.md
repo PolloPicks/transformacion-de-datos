@@ -11,12 +11,17 @@ Portfolio by **Santiago Guerrero** focused on practical business analytics, repo
 - SQL-based analysis workflows
 - Business KPI reporting
 
-## Featured project
+## Featured projects
 
-### Sales Analytics Dashboard & Automation
+### 1. Sales Analytics Dashboard & Automation
 A small-business sales analytics case built with fictional data. The project shows how raw transaction data can be transformed into decision-ready KPIs, product performance, salesperson performance and monthly trends.
 
 ➡️ [`portfolio/sales-analytics-dashboard`](portfolio/sales-analytics-dashboard)
+
+### 2. Automated Monthly Business Report
+A Python workflow that consolidates recurring CSV files, validates the data, calculates revenue, profit and margin, and exports monthly, customer and product summaries.
+
+➡️ [`portfolio/report-automation`](portfolio/report-automation)
 
 ## Business focus
 
