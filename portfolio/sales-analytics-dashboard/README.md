@@ -23,10 +23,10 @@ This project turns raw transactional data into a repeatable analytics workflow.
 
 Using the fictional dataset included in this repository:
 
-- Revenue: **$61,467 MXN**
-- Gross profit: **$27,973 MXN**
-- Gross margin: **45.5%**
-- Units sold: **589**
+- Revenue: **$23,003 MXN**
+- Gross profit: **$10,591 MXN**
+- Gross margin: **46.0%**
+- Units sold: **228**
 - Top product by revenue: **Limpiador Multiusos 1L**
 
 ## Project structure
