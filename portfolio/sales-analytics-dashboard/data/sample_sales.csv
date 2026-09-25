@@ -1,0 +1,21 @@
+date,order_id,client,salesperson,product,category,units,unit_price,unit_cost
+2026-03-24,V-1001,Abarrotes Luna,Ana López,Detergente Líquido 2L,Limpieza,14,145,82
+2026-05-18,V-1002,Súper Express,Ana López,Limpiador Multiusos 1L,Limpieza,13,78,38
+2026-05-10,V-1003,Abarrotes Luna,Carlos Ruiz,Detergente Líquido 2L,Limpieza,3,145,82
+2026-04-18,V-1004,Abarrotes Luna,Mariana Torres,Limpiador Multiusos 1L,Limpieza,9,78,38
+2026-04-19,V-1005,Abarrotes Luna,Ana López,Limpiador Multiusos 1L,Limpieza,20,78,38
+2026-06-11,V-1006,Súper Express,Mariana Torres,Bolsas de Basura 30 pzas,Hogar,3,75,36
+2026-04-12,V-1007,Abarrotes Luna,Mariana Torres,Limpiador Multiusos 1L,Limpieza,9,78,38
+2026-02-04,V-1008,Mini Súper Roma,Mariana Torres,Papel Higiénico 12 rollos,Hogar,15,132,79
+2026-01-31,V-1009,Súper Express,Mariana Torres,Bolsas de Basura 30 pzas,Hogar,11,75,36
+2026-02-16,V-1010,Súper Express,Mariana Torres,Limpiador Multiusos 1L,Limpieza,20,78,38
+2026-02-18,V-1011,Súper Express,Mariana Torres,Papel Higiénico 12 rollos,Hogar,5,132,79
+2026-01-17,V-1012,Súper Express,Ana López,Bolsas de Basura 30 pzas,Hogar,3,75,36
+2026-05-08,V-1013,Mercado Central,Carlos Ruiz,Bolsas de Basura 30 pzas,Hogar,14,75,36
+2026-06-12,V-1014,Tienda San José,Carlos Ruiz,Desinfectante Aerosol,Limpieza,10,105,58
+2026-06-23,V-1015,Mercado Central,Carlos Ruiz,Limpiador Multiusos 1L,Limpieza,13,78,38
+2026-05-19,V-1016,Mercado Central,Mariana Torres,Papel Higiénico 12 rollos,Hogar,14,132,79
+2026-06-12,V-1017,Abarrotes Luna,Ana López,Detergente Líquido 2L,Limpieza,15,145,82
+2026-04-07,V-1018,Tienda San José,Ana López,Bolsas de Basura 30 pzas,Hogar,6,75,36
+2026-02-11,V-1019,Mini Súper Roma,Carlos Ruiz,Limpiador Multiusos 1L,Limpieza,11,78,38
+2026-05-28,V-1020,Súper Express,Carlos Ruiz,Papel Higiénico 12 rollos,Hogar,20,132,79
