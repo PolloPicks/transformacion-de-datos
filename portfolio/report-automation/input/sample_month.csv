@@ -1,0 +1,7 @@
+date,customer,product,units,unit_price,unit_cost
+2026-01-05,Cliente A,Producto 1,10,120,70
+2026-01-08,Cliente B,Producto 2,6,250,140
+2026-01-12,Cliente A,Producto 3,4,400,260
+2026-01-18,Cliente C,Producto 1,15,120,70
+2026-01-21,Cliente D,Producto 2,8,250,140
+2026-01-29,Cliente B,Producto 3,3,400,260
